@@ -1,4 +1,0 @@
-cd
-git branch
-git add
-git commit
