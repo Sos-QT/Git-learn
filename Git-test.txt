@@ -1,7 +1,0 @@
-Sos Lputyan
-Elina Lputyan
-
-<<<<<<< HEAD
-
-=======
->>>>>>> master
